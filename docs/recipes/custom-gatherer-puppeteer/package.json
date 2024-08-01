@@ -8,6 +8,6 @@
     "lighthouse": "file:../../../dist/lighthouse.tgz"
   },
   "dependencies": {
-    "puppeteer-core": "^2.0.0"
+    "puppeteer-core": "^22.13.0"
   }
 }
