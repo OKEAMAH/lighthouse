@@ -185,7 +185,7 @@
     "webtreemap-cdt": "^3.2.1"
   },
   "dependencies": {
-    "@sentry/node": "^6.17.4",
+    "@sentry/node": "^7.75.0",
     "axe-core": "4.4.1",
     "chrome-launcher": "^0.15.1",
     "configstore": "^5.0.1",
